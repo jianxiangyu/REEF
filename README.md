@@ -2,7 +2,7 @@
 
 # REEF: Relation-Aware Graph Foundation Model
 
-[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-blue)](<[paper-url]()>)
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-blue)](https://arxiv.org/abs/2505.12027v2)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-orange)](https://huggingface.co/ffjasonyu/REEF)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
