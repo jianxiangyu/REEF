@@ -12,7 +12,7 @@
 
 ## 🔥 News
 - *2026.09*: 🎉 REEF is accepted by **NeurIPS 2026**! 🥳
-- *2026.09*: 🤗 Pretrained weights are released on [Hugging Face](https://huggingface.co/<HF_REPO>)!
+- *2026.09*: 🤗 Pretrained weights are released on [Hugging Face]([https://huggingface.co/<HF_REPO>](https://huggingface.co/ffjasonyu/REEF))!
 
 ## ❓ What is REEF
 
