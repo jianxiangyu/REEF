@@ -86,8 +86,8 @@ Pretrained weights are hosted on Hugging Face: **https://huggingface.co/ffjasony
 Download the two files into `code/`:
 ```bash
 # pip install huggingface_hub   (already in requirements.txt)
-huggingface-cli download <HF_REPO> reef_pretrained.pth --local-dir ./code --repo-type model
-huggingface-cli download <HF_REPO> edge_texts2id.json  --local-dir ./code --repo-type model
+huggingface-cli download ffjasonyu/REEF reef_pretrained.pth  --local-dir ./code --repo-type model
+huggingface-cli download ffjasonyu/REEF edge_texts2id.json   --local-dir ./code --repo-type model
 ```
 
 | File | Size | Description |
